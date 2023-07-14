@@ -1,0 +1,33 @@
+body
+{
+    background: khaki;
+}
+h1
+{
+ background: rgb(218, 197, 10);
+ width: 600px;
+ border-top-left-radius: 30%;
+ border-top-right-radius: 30%;
+ border-bottom-left-radius: 30%;
+ border-bottom-right-radius: 30%;
+ text-align: center;
+ margin-top: auto;
+ border-style:groove;
+ border-radius: 30;
+ border-color:black;
+}
+form
+{
+    border-radius: 10px;
+    border-style: groove;
+    border-color: black;
+    border-width: 10px;
+}
+#lol
+{
+   
+}
+#frf
+{
+    
+}
